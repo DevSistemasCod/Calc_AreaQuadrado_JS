@@ -1,5 +1,5 @@
-// Importe da classe Quadrado do arquivo 'quadrado.js'
-import { Quadrado } from './quadrado.js';
+// Importe da classe Quadrado do arquivo 'Quadrado.js'
+import { Quadrado } from './Quadrado.js';
 
 // Calcula a área de um quadrado com base no lado
 function calcularAreaQuadrado(lado) {
